@@ -1,0 +1,3 @@
+# Swift Function Parameter Labels Error
+
+This example demonstrates a common error in Swift when working with functions that have explicit parameter labels. Forgetting to include the parameter labels when calling the function results in a compiler error.  This is because Swift's type system needs the labels to disambiguate the arguments. The solution involves correctly using the labels when calling the function.
